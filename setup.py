@@ -22,7 +22,7 @@ def parse_reqs(*req_files):
 
 setup(
     name='bluenovetest',
-    version='0.3',
+    version='0.4',
     description='Sample Flask app for CI/CD testing',
     author='Bluenove',
     author_email='assembl.admin@bluenove.com',
